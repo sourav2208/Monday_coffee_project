@@ -1,5 +1,5 @@
 # Monday_coffee_project
-![monday coffee logo](https://github.com/sourav2208/Monday_coffee_project/blob/main/Screenshot%202025-05-31%20111224.png)
+![monday coffee logo](https://github.com/sourav2208/Monday_coffee_project/blob/main/mondAY2025-05-31%20111224.png)
 ## Objective ##
 The aim of this project is to study the online sales data of Monday Coffee (since January 2023) and suggest the top three major cities in India where the company should open new coffee shops, based on customer demand and sales trends.
 
